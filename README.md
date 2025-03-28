@@ -7,7 +7,7 @@
 </div>
 
 
-# - I'm Erick! 
+# I'm Erick! 
 (most of the times i use the "sambio keka" nickname)
 
 ### About Me:  
