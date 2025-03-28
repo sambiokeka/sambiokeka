@@ -7,10 +7,10 @@
 </div>
 
 
+# - Hi, I'm Erick! 
+(most of the times i use the "sambio keka" nickname)
 
 ### About Me:  
-# - Hi, I'm Erick! 
-most of the times i use the "sambio keka" nickname on most of the thins i sign in
 -  **18 years old** | 🇧🇷 **Brazilian** 
 - Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Passionate about programming, algorithms, and game development  
