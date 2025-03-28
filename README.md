@@ -26,7 +26,7 @@
 - Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Passionate about programming, algorithms, and game development  
 - Goal: Become a **full-stack developer**
-- 
+  
 ## Languages:  
 - **Portuguese**: Native  
 - **English**: Fluent (professional proficiency)  
