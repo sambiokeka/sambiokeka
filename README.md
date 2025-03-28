@@ -40,7 +40,7 @@
   </a>
 </div>
 
-#I'm Erick!
+# I'm Erick!
 (most of the times i use the nickname "sambio keka" )
 
 ## About Me:  
