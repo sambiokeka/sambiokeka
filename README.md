@@ -58,4 +58,4 @@
 - Rank: **Grandmaster** 
 - Main Roles: Mid/Adc
 - OTP: *Katarina*  
-- Fun Fact: Suffering!
+- Suffering!
