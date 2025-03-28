@@ -30,7 +30,6 @@
 </div>
 
 # I'm Erick!
-(most of the times i use the nickname "sambio keka" )
 <div align="left">
   <a href="https://www.instagram.com/sambio_keka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@sambiokeka&color=E4405F&logoColor=white&labelColor=E4505F&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -41,6 +40,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erick%20Jooji%20B.%20Yamashita&color=0077B5&logoColor=white&labelColor=0097B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+(most of the times i use the nickname "sambio keka" )
 
 ## About Me:  
 -  18 years old brazilian
