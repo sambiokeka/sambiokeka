@@ -6,11 +6,11 @@
   <img height="180" src="https://i.pinimg.com/originals/16/95/1e/16951e2eb6f176328739e8862bfade8f.gif"  />
 </div>
 
-###
-# - Hi, I'm Erick! 
-most of the times i use the "sambio keka" nickname on most of the thins i sign in
+
 
 ### About Me:  
+# - Hi, I'm Erick! 
+most of the times i use the "sambio keka" nickname on most of the thins i sign in
 -  **18 years old** | 🇧🇷 **Brazilian** 
 - Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Passionate about programming, algorithms, and game development  
