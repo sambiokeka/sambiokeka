@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erick%20Jooji%20B.%20Yamashita&color=0077B5&logoColor=white&labelColor=0097B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br>
 <h2>I'm Erick!</h2> (most of the times i use the "sambio keka" nickname)
 
 ### About Me:  
