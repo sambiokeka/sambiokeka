@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
 </div>
-
 ##
 
 <div align="left">
@@ -40,6 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erick%20Jooji%20B.%20Yamashita&color=0077B5&logoColor=white&labelColor=0097B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 (most of the times i use the nickname "sambio keka" )
 
 ## About Me:  
