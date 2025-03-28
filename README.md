@@ -17,7 +17,33 @@
   </a>
 </div>
 
-###
+
+# I'm Erick! 
+(most of the times i use the "sambio keka" nickname)
+
+### About Me:  
+-  **18 years old** | 🇧🇷 **Brazilian** 
+- Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
+- Passionate about programming, algorithms, and game development  
+- Goal: Become a **full-stack developer**
+- 
+## Languages:  
+- **Portuguese**: Native  
+- **English**: Fluent (professional proficiency)  
+
+## Passions: 
+- Programming
+- Algorithms
+- Game Development (learning)
+  
+## Shameful part ⬇️:
+- Sorry to say this, but im a league player 😭
+- Rank: **Grandmaster** 
+- Main Roles: Mid/Adc
+- OTP: *Katarina*  
+- Fun Fact: Suffering!
+
+- ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,29 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
 </div>
 
-# I'm Erick! 
-(most of the times i use the "sambio keka" nickname)
-
-### About Me:  
--  **18 years old** | 🇧🇷 **Brazilian** 
-- Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
-- Passionate about programming, algorithms, and game development  
-- Goal: Become a **full-stack developer**
-- 
-## Languages:  
-- **Portuguese**: Native  
-- **English**: Fluent (professional proficiency)  
-
-## Passions: 
-- Programming
-- Algorithms
-- Game Development (learning)
-  
-## Shameful part ⬇️:
-- Sorry to say this, but im a league player 😭
-- Rank: **Grandmaster** 
-- Main Roles: Mid/Adc
-- OTP: *Katarina*  
-- Fun Fact: Suffering!  
 
 
