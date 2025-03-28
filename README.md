@@ -41,7 +41,7 @@
   </a>
 </div>
 
-(most of the times i use the nickname "sambio keka" )
+(most of the times i use the nickname "sambio keka", btw it doesnt "mean" anything )
 
 ## About Me:  
 - Im **Erick** an 18 years old brazilian
