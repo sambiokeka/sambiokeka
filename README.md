@@ -7,6 +7,31 @@
 </div>
 
 ###
+# - Hi, I'm Erick! 
+most of the times i use the "sambio keka" nickname on most of the thins i sign in
+
+### About Me:  
+-  **18 years old** | 🇧🇷 **Brazilian** 
+- Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
+- Passionate about programming, algorithms, and game development  
+- Goal: Become a **full-stack developer**
+- 
+## Languages:  
+- **Portuguese**: Native  
+- **English**: Fluent (professional proficiency)  
+
+## Passions: 
+- Programming
+- Algorithms
+- Game Development (learning)
+  
+## Shameful part ⬇️:
+- Sorry to say this, but im a league player 😭
+- Rank: **Grandmaster** 
+- Main Roles: Mid/Adc
+- OTP: *Katarina*  
+- Fun Fact: Suffering!  
+
 
 <div align="center">
   <a href="https://www.instagram.com/sambio_keka/" target="_blank">
