@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!!!</h1>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -29,7 +29,7 @@
   <img height="180" src="https://i.pinimg.com/originals/16/95/1e/16951e2eb6f176328739e8862bfade8f.gif"  />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/sambio_keka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@sambiokeka&color=E4405F&logoColor=white&labelColor=E4505F&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erick%20Jooji%20B.%20Yamashita&color=0077B5&logoColor=white&labelColor=0097B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br>
 <br>
 
 <h2>I'm Erick!</h2> (most of the times i use the "sambio keka" nickname)
