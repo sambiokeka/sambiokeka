@@ -1,4 +1,4 @@
-<h2 align="center">Hello World!!!</h2>
+<h1 align="center">Hello World!!!</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 </div>
 
 
-# - Hi, I'm Erick! 
+# - I'm Erick! 
 (most of the times i use the "sambio keka" nickname)
 
 ### About Me:  
