@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
 </div>
-##-
+## -
 
 # I'm Erick!
 <div align="left">
