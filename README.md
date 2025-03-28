@@ -43,7 +43,7 @@
 <h2>I'm Erick!</h2>
 (most of the times i use the nickname "sambio keka" )
 
-### About Me:  
+## About Me:  
 -  18 years old brazilian
 - Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Goal: Become a **full-stack developer**
