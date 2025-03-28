@@ -30,7 +30,6 @@
 
 ##
 
-### <h1>I'm Erick!</h1>
 <div align="left">
   <a href="https://www.instagram.com/sambio_keka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@sambiokeka&color=E4405F&logoColor=white&labelColor=E4505F&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,7 +43,7 @@
 (most of the times i use the nickname "sambio keka" )
 
 ## About Me:  
--  18 years old brazilian
+- Im **Erick** an 18 years old brazilian
 - Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Goal: Become a **full-stack developer**
 - Languages: **Portuguese** (Native), **English** (Fluent)
