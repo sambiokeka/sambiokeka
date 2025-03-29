@@ -41,11 +41,11 @@
   </a>
 </div>
 <br>
-(most of the times i use the nickname "sambio keka", btw it doesnt "mean" anything )
+(most of the times i use the nickname "sambio keka", btw it doesnt "mean" anything)
 
 ## About Me:  
-- Im **Erick** an 18 years old brazilian
-- Studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
+- I'm **Erick**, I'm 18 years old and Brazilian
+- Currently studying **Software Engineering** at [FIAP](https://www.fiap.com.br/)  
 - Goal: Become a **full-stack developer**
 - Languages: **Portuguese** (Native), **English** (Fluent)
 
@@ -55,8 +55,8 @@
 - Game Development (learning)
   
 ## Shameful part ⬇️:
-- Sorry to say this, but im a league player 😭
-- Rank: **Grandmaster** 
+- Sorry to say this, but I'm a league player 😭
+- Rank: **Grandmaster**
 - Main Roles: Mid/Adc
 - OTP: *Katarina*  
 - Suffering!
